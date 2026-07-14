@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "loop_id": "{{SLUG}}",
+  "goal": "{{GOAL_JSON}}",
+  "status": "designed",
+  "iteration": 0,
+  "max_iterations": {{MAX_ITERATIONS}},
+  "no_progress_count": 0,
+  "max_no_progress": {{MAX_NO_PROGRESS}},
+  "completed_criteria": [],
+  "pending_criteria": ["AC-01"],
+  "last_action": null,
+  "last_verification": null,
+  "next_action": "Complete loop-spec.md and set status to ready after design review.",
+  "blocker": null,
+  "required_approval": null,
+  "evidence": [],
+  "updated_at": "{{UPDATED_AT}}"
+}

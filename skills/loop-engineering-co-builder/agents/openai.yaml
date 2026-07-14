@@ -1,0 +1,4 @@
+interface:
+  display_name: "Loop Engineering Co-Builder"
+  short_description: "Build bounded, verifiable, recoverable agent loops"
+  default_prompt: "Use $loop-engineering-co-builder to turn this goal into a bounded, stateful, verifiable agent loop."
